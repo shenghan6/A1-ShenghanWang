@@ -1,0 +1,13 @@
+# Compiled output
+/out/
+*.class
+
+# IDE files
+/.idea/
+/.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Local helper notes (not part of the submission)
+README-先读我.md
